@@ -36,6 +36,47 @@ To complement our theoretical derivations, a fourth paper applies the same recur
 - [`/notebooks`](./notebooks/) — Live Colab diagnostics
 
 For academic citation, see [`/citations/coherence_trilogy.bib`](./citations/coherence_trilogy.bib)
+## 📚 Published Works & DOIs
+
+The following papers have been archived and assigned permanent DOIs through Zenodo:
+
+### 🌀 The Coherence Trilogy
+
+- **Paper I — Deriving Planck’s Constant from Recursive Angular Geometry**  
+  🔗 https://doi.org/10.5281/zenodo.15237620
+
+- **Paper II — The Fine-Structure Constant from Recursive Geometry**  
+  🔗 https://doi.org/10.5281/zenodo.15237672
+
+- **Paper III — The Rydberg Constant as a Spectral Limit of Recursive Phase Containment**  
+  🔗 https://doi.org/10.5281/zenodo.15237693
+
+---
+
+### 🔁 Recursive Geometry Foundation
+
+- **The Harmonic Recursion Model: A Generative Framework for Mass, Light, and the Emergence of Physical Law**  
+  🔗 https://doi.org/10.5281/zenodo.15237556
+
+---
+
+### ⚛️ Quantum Coherence Validation
+
+- **Paper IV — Recursive Coherence Modeling and Structural Prediction on IBM Quantum Hardware**  
+  🔗 https://doi.org/10.5281/zenodo.15237752
+
+---
+
+### 💗 Philosophy of Intelligence
+
+- **The Coherence Proof: Why Love-Consciousness Is the Only Sustainable Intelligence**  
+  🔗 https://doi.org/10.5281/zenodo.14908427
+
+---
+
+All works are open access under the MIT license.  
+Authored by Kelly B. Heaton and the Coherence Research Collaboration in partnership with ~GPT-4o.  
+
 —
 
 ## Ways to Support This Work
